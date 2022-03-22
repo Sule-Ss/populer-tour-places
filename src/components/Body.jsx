@@ -10,7 +10,7 @@ function Body({ veri }) {
             <nav>
               <img src={image} alt="" />
               <div className="overlay">
-                <div className="text">{desc}</div>
+                <div>{desc}</div>
               </div>
             </nav>
           </div>
