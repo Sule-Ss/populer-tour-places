@@ -1,13 +1,13 @@
 {
-  "files": {
-    "main.css": "/populer-tour-places/static/css/main.81c46550.css",
-    "main.js": "/populer-tour-places/static/js/main.660b726b.js",
-    "index.html": "/populer-tour-places/index.html",
-    "main.81c46550.css.map": "/populer-tour-places/static/css/main.81c46550.css.map",
-    "main.660b726b.js.map": "/populer-tour-places/static/js/main.660b726b.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.81c46550.css",
-    "static/js/main.660b726b.js"
-  ]
+  "main.css": "/populer-tour-places/static/css/main.48c17e7c.chunk.css",
+  "main.js": "/populer-tour-places/static/js/main.14f10d8c.chunk.js",
+  "main.js.map": "/populer-tour-places/static/js/main.14f10d8c.chunk.js.map",
+  "static/js/1.c1307a6b.chunk.js": "/populer-tour-places/static/js/1.c1307a6b.chunk.js",
+  "static/js/1.c1307a6b.chunk.js.map": "/populer-tour-places/static/js/1.c1307a6b.chunk.js.map",
+  "runtime~main.js": "/populer-tour-places/static/js/runtime~main.3a01ab25.js",
+  "runtime~main.js.map": "/populer-tour-places/static/js/runtime~main.3a01ab25.js.map",
+  "static/css/main.48c17e7c.chunk.css.map": "/populer-tour-places/static/css/main.48c17e7c.chunk.css.map",
+  "index.html": "/populer-tour-places/index.html",
+  "precache-manifest.fc6824c44871b81811106bd8105293be.js": "/populer-tour-places/precache-manifest.fc6824c44871b81811106bd8105293be.js",
+  "service-worker.js": "/populer-tour-places/service-worker.js"
 }
